@@ -1,5 +1,5 @@
 # Tugas Wawancara Daemon
-## Deadline :  Rabu, 28 Agustus 2019 jam 01.00 WIB
+## Terima kasih sudah berkontribusi pada repo ini! 
 
 ### Spek Singkat
 - Markdown tiap wawancara di taruh di folder yang namanya NIM Daemon yang diwawancara (jika belum ada, langsung buat)
